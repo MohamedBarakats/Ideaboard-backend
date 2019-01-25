@@ -1,25 +1,15 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+ Do you have many ideas ? :speech_balloon:
+1. Register
+2. list them 
+3. keep updating tickets 
+4. [x] Make a progress 
 
-* Ruby version
+Everything is an Idea:
 
-* System dependencies
+> Mohamed Barakat
 
-* Configuration
+![alt text](https://github.com/MohamedBarakats/ideaboard-front-end/blob/master/public/CurrentView.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Ideaboard-backend
+# Ideaboard
